@@ -1,3 +1,3 @@
-K-Means Clustering untuk menentukan produk terlaris
-<br>
-![](porto/hasil.PNG)
+
+<h1 align="center">K-Means Clustering untuk menentukan produk terlaris</h1>
+![hasil](porto/hasil.PNG)
