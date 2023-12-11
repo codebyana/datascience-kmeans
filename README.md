@@ -1,2 +1,2 @@
 K-Means Clustering untuk menentukan produk terlaris
-![Contoh Gambar](porto/hasil.png)
+![Contoh Gambar](porto/hasil.PNG)
